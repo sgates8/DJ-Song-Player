@@ -1,0 +1,21 @@
+#playlist {
+    list-style: none;
+}
+#playlist li a {
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: magenta;
+}
+
+button {
+    background-color: magenta;
+    color:white;
+    padding: 15px
+    border: solid;
+
+}
