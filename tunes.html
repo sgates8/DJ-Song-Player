@@ -7,16 +7,17 @@
     <link rel="stylesheet" href="tunes.css">
 </head>
 <body>
-    <h1>You Can Play A Song</h1>
-    <audio src="" controls id="audioPlayer"></audio>
+    <h1>DJ Play My Song</h1>
+    <audio src="C:\Users\sfgla\cbc9\week4\Music" controls id="audioPlayer"></audio>
     <ul id="playlist">
         <li><a href="Beyonce - Ego (Remix).mp3">Ego</a></li>
         <li><a href="N.E.R.D. - Am I High.mp3">Am I High</a></li>
         <li><a href="Kelis - Get Along With You.mp3">Get Along With You</a></li>
     </ul>
-        <input type="text" id="userInput">
+        <input type="text" id="request">
         <button onclick="playSong()" id="submit">Play</button>
-            <p id="Song"></p>
+            <p id="song"></p>
+        <button onClick="removeSong()" id ="delete">Remove Song</button>
 </body>
 <script src="tunes.js"></script>
 </html>
