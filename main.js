@@ -7,6 +7,7 @@ console.log(2+true)*/
 
 var counter = 2;
 
+
 var counter2 = counter + 5
 
 console.log(counter2 * 2)
@@ -32,3 +33,6 @@ if (lunch = tacos || lunch = hamburgers){
 } else if (lunch = salad){
     console.log(healthy);
    }
+
+console.log (counter + 5)
+
