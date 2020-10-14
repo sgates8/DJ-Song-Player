@@ -1,4 +1,6 @@
 # DJ Song Request Board 
 
+Since the mp3 files/site are not hosted, the songs will not play. 
+
 week-4
-CBC 9 Week 4 work 
+
